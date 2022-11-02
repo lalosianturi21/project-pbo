@@ -138,11 +138,12 @@ ul {
 
 /* CSS for Web Order Makanan Section */
 .food-search{
-    background: black;
+    background: url("../images/ingredients2.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     padding: 7% 0;
+    z-index: 30px;
 }
 
 .food-search input[type="search"]{
